@@ -1,0 +1,1 @@
+{ "streams": [ { "title": "Stream 1", "category": "Music", "duration": 3600, "views": 1500, "liked": true }, { "title": "Stream 2", "category": "Gaming", "duration": 5400, "views": 3000, "liked": false }, { "title": "Stream 3", "category": "Education", "duration": 7200, "views": 4500, "liked": true } ] }
